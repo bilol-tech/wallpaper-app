@@ -1,8 +1,9 @@
 # This is a Wallpaper App.
 
 
-| <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_2.png' width='300'> | <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_1.png' width='270'> |
-|:-----------------------------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------|
+| <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_2.png' width='300'> | <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_3.png' width='300'> | <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_1.png' width='270'> |
+|:-----------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------|
+
 
 
 

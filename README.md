@@ -1,6 +1,6 @@
 # This is a Wallpaper App.
 
-| <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_2.png' width='290'>| <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/wallpaper_3.png' width='270'> | 
+| <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/Wallpaper.png' width='290'>|  | 
 |:---:|-------------------------------------------------------------------------------------------------------------|
 
 

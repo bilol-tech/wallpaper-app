@@ -1,7 +1,7 @@
 # Wallpaper
 
 | <img src='https://github.com/Bilol4391/wallpaper_app/blob/main/assets/outputs/Wallpaper.png' width='290'>|
-|:---:|-------------------------------------------------------------------------------------------------------------|
+
 
 This project offers a collection of wallpapers sourced from Google through a convenient API. Users can easily search for specific wallpapers or explore different categories to find the perfect background for their devices.
 
